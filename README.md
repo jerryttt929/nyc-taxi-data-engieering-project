@@ -1,4 +1,4 @@
-# nyc-taxi-data-engieering-project
+# NYC Taxi Data Engineering Project
 
 This is a short project that I personally participated from one of Darshil Parmar's free data engineering project. 
 I would like to thank Darshil for putting efforts into creating this wonderful projects for people who are looking to transitioning into Data Engineering field. This project not onlys show how ETL works in action but also introduce tools like "Cloud Storage", "Compute Enginer", "BigQuery" from GCP as well as a data pipeline tool called "Mage". 
