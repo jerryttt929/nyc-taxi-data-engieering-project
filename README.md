@@ -16,4 +16,5 @@ You may check the code [here](https://github.com/jerryttt929/nyc-taxi-data-engie
 
 
 In the end, I have successfully ingested data into Google BigQuery and created a general dashboard from the data.
-You may check it out [here](https://lookerstudio.google.com/reporting/6b106701-878d-42f7-b41d-f902b68d4fb1)
+You may check it out below (Project was removed from GCP, refer to screenshot instead)
+<img width="1511" alt="Screen Shot 2023-09-14 at 3 34 29 PM" src="https://github.com/jerryttt929/nyc-taxi-data-engieering-project/assets/67589509/e6f6c5e8-6b0f-46d9-8c40-051d70b1a2e4">
